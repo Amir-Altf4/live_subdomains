@@ -1,4 +1,4 @@
-# subenum.sh —  WIP
+# subdomain.sh —  WIP
 
 >  **Work in progress.** Core functionality works, throttling/optimization still being tuned.
 
@@ -14,7 +14,7 @@ Bash subdomain enumeration script — checks a wordlist of common subdomain pref
 
 ## Usage
 ```bash
-./subenum.sh <domain>
+./subdomain.sh <domain>
 ```
 
 ## Output
