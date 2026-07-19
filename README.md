@@ -10,7 +10,7 @@ Bash subdomain enumeration script — checks a wordlist of common subdomain pref
 - [x] Results saved to separate files (`live_subdomains.txt`, `web_subdomains.txt`)
 - [x] Parallelized execution for speed
 - [ ] Concurrency throttling (in progress — prevents system overload on large wordlists)
-- [ ] Auto-chaining into recon.sh for discovered web subdomains
+- [ ] Auto-chaining into recon1 for discovered web subdomains
 
 ## Usage
 ```bash
